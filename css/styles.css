@@ -17,17 +17,17 @@ h1 {
 }
 
 h2 {
-position: absolute;
-top: -2px;
-right: -2px;
-margin: auto;
-width: 140px;
-height: 35px;
-border: 2px solid black;
-text-align: center;
-padding: center;
-float: none;
-}
+  position: absolute;
+  top: -2px;
+  right: -2px;
+  margin: auto;
+  width: 140px;
+  height: 35px;
+  border: 2px solid black;
+  text-align: center;
+  padding: center;
+  float: none;
+  }
 
 .section {
   clear: margin;
